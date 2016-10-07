@@ -1,0 +1,6 @@
+ Positive signal == 1
+        if Positive signal > 0:
+        ('Wear shorts.')
+    else:
+        print('Wear long pants.')
+    print('Get some exercise outside.')
